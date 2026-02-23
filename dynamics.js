@@ -4,6 +4,7 @@ function $(id) {
 } 
 
 alert('OPEN THE CALCULATOR FIRST!')
+alert('OPEN THE CALCULATOR FIRST!')
 //operators function
 function operator(param){
   input0.innerText = param
