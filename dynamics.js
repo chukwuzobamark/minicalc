@@ -65,6 +65,6 @@ function equalsTo() {
   } else if (percentagesed){
     let percentages = parseInt(input1.innerText) / 100
     calc.innerHTML = percentages
-    percentagesed = true
+    percentagesed = false
   }
 } 
